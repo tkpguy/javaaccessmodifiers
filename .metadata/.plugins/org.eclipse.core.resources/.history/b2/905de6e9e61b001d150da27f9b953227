@@ -1,0 +1,18 @@
+package javaPublicModifier;
+
+public class JavaPublicModifier {
+
+	public static void main(String[] args) {
+		
+
+	}
+	
+	public void addition(int a, int b) {
+		int i = a;
+		int j = b;
+		
+		System.out.println("summation = " + (i+j) );
+		
+	}
+
+}

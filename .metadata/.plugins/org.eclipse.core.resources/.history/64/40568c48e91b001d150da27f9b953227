@@ -1,0 +1,15 @@
+package javaProtectedModifier;
+
+public class JavaProtectedModifier {
+
+	public static void main(String[] args) {
+			
+		
+
+	}
+	
+	protected static void subtract(int i, int j) {
+		System.out.println("Subtracted value = "+(i-j));
+	}
+
+}

@@ -1,0 +1,11 @@
+package javaPublicModifier;
+
+public class JavaPublicModifier {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

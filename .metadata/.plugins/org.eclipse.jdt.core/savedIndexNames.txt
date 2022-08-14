@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+G:\git\javaaccessmodifiers\.metadata\.plugins\org.eclipse.jdt.core
+2291103651.index
+1865797976.index
+594248749.index
